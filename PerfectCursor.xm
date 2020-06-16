@@ -1,4 +1,4 @@
-#import "PerfectCursor13.h"
+#import "PerfectCursor.h"
 
 #import <Cephei/HBPreferences.h>
 #import "SparkColourPickerUtils.h"
